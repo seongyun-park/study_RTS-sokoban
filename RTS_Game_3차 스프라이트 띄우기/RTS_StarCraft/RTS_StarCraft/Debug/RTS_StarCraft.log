@@ -1,0 +1,66 @@
+﻿  AirUnit.cpp
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.h(112,32): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\AirUnit.cpp(44,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\AirUnit.cpp(44,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\AirUnit.cpp(60,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\AirUnit.cpp(60,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\AirUnit.cpp(59,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameManager.cpp
+  GroundUnit.cpp
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.h(112,32): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\GroundUnit.cpp(75,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\GroundUnit.cpp(75,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\GroundUnit.cpp(88,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\GroundUnit.cpp(88,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\GroundUnit.cpp(87,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  Object.cpp
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.h(112,32): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(10,31): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(10,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(10,58): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(10,52): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(85,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(85,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(108,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(108,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(107,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(117,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(117,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(116,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(116,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(120,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(120,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(119,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(119,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(125,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(126,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(131,17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(132,17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(151,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(151,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(155,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(155,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(162,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(162,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(167,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(167,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(171,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(171,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(179,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(179,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(179,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.cpp(179,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ReBuild.cpp
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.h(112,32): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Structure.cpp
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.h(112,32): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UbyScv.cpp
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.h(112,32): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Unit.cpp
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.h(112,32): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UnitDefine.cpp
+  UnitManager.cpp
+C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\RTS_StarCraft\Object.h(112,32): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  RTS_StarCraft.vcxproj -> C:\☆D_drive\게임인재원\GA2ndStudy\북두의코딩_시즌3\RTS만들기\박성윤\RTS_Game_3차 스프라이트 띄우기\RTS_StarCraft\Debug\RTS_StarCraft.exe
